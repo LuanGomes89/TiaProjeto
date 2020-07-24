@@ -338,10 +338,14 @@ namespace WindowsFormsApp1
         Random rand = new Random();
         private void timer1_Tick(object sender, EventArgs e)
         {
-            textBox7.Text = $"{DateTime.Now.ToLongTimeString()}".ToString();
-            textBox3.Text = (rand.Next(10000)).ToString(); 
-            textBox4.Text = (rand.Next(10000)).ToString();
-            textBox5.Text = (rand.Next(10000)).ToString();
+
+           /*DataTable novo = new DataTable();
+            novo = Class1.GetClientes*/
+
+            textBox7.Text = $"{DateTime.Now.ToLongTimeString()}".ToString() ;
+            textBox3.Text = (rand.Next(10000)).ToString() ; 
+            textBox4.Text = (rand.Next(10000)).ToString() ;
+            textBox5.Text = (rand.Next(10000)).ToString() ;
 
             if (!Valida())
             {
@@ -392,11 +396,13 @@ namespace WindowsFormsApp1
 
         private void chart1_Click(object sender, EventArgs e)
         {
-
+         
         }
 
         private void button12_Click(object sender, EventArgs e)
         {
+            //SaveFileDialog save = new SaveFileDialog();
+            
             Class1.GravarFicheiro();
         }
 

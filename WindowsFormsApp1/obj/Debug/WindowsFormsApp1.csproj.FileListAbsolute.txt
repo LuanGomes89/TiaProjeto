@@ -1,0 +1,124 @@
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\eletronica\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VacaBulario\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VacaBulario\Desktop\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Floppy\Desktop\deletar\2\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\eletronica\Desktop\WindowsFormsApp144 (2)\WindowsFormsApp144\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
